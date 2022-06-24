@@ -8,12 +8,9 @@
           fetch="https://github.com/kdrag0n" /> 
 
       <remote name="me"
-          fetch="https://github.com/S8M1T" />
-        
-     <remote name="me2"
-          fetch="https://github.com/BittuBomda" />
+          fetch="https://github.com/SubhamDash69" />
       
-  <project path="device/realme/RMX3031" name="android_device_realme_RMX3031" remote="me2" revision="12.1"/>
+  <project path="device/realme/RMX3031" name="android_device_realme_RMX3031" remote="me" revision="12.1"/>
      
   <project path="vendor/realme/RMX3031" name="proprietary_vendor_realme_RMX3031" remote="me" revision="12.1" />
      
